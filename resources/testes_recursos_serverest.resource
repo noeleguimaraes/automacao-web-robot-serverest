@@ -38,7 +38,7 @@ Passo 3 - Digitar um nome
     sleep  2s
 Passo 4 - Digitar um e-mail
     Wait Until Element Is Visible    ${emailInput} 
-    Input Text    ${emailInput}     mariadasilva@gmail.com
+    Input Text    ${emailInput}     terezadasilva@gmail.com
     sleep  2s
 
  Passo 5 - Digitar uma senha
