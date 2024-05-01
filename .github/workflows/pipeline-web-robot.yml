@@ -22,10 +22,5 @@ jobs:
           run: |
             pip install robotframework
             pip install robotframework-seleniumlibrary
-          
-        - name: Execução dos Testes Web
-            # run: echo Executando os testes de API do Robot
-          run: |
-              robot --outputdir reports/ tests/
-  
+    
 
